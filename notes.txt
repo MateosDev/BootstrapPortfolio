@@ -1,0 +1,2 @@
+- could not center background img
+- About Me/ About Oscar button does not link back to index.html ?
